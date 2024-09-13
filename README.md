@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm RidingBird</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/796fd38531f6a220a33151f1f26201dc4b86e6c19f4a107f9b007bd73b85df04/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6e7071613235314f4446345a5735755a7a4e77614735745957356d626a42795a336435626d4e364f5773784f47557a6148493362695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridingbird&label=Profile%20views&color=0e75b6&style=flat" alt="ridingbird" /> </p>
