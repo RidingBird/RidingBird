@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYwMzl5cWI5MDZ3OWhpaHZ0Mndvc2l1eGZpYTJhY2dtem5zdmpiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KnbWd7FTkhaYo7KnNZ/giphy.webp)]
+[![MasterHead](https://drive.google.com/file/d/1uI9VMX7miy5wPESvfQV-du6VsQTN45GB/view?usp=sharing)]
 
 <h1 align="center">Hi 👋, I'm RidingBird</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
