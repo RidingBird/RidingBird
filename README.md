@@ -1,8 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/b0a4d30f8d5be5c42d7bc2c6a3bad82dc5ad1a537ab60d7463d3b9e05541d986/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)]
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+RidingBird" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm RidingBird</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate front-end developer from India. Currently learning MERN Stack</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/796fd38531f6a220a33151f1f26201dc4b86e6c19f4a107f9b007bd73b85df04/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6e7071613235314f4446345a5735755a7a4e77614735745957356d626a42795a336435626d4e364f5773784f47557a6148493362695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966">
 
 
